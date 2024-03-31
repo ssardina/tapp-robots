@@ -9,6 +9,17 @@ Two robots are available:
 
 These robots are usually run when a new season is started, and the whole framework needs to be reset to reflect the new teams and people in the club.
 
+## Pre-requisites
+
+The robot notebooks use **[Salenium](https://www.selenium.dev/)**, a package used to automate web browser interaction from Python.
+
+* Salenium dev doc: https://www.selenium.dev/selenium/docs/api/py/index.html#
+* Salenium with Python: https://selenium-python.readthedocs.io/
+* Tutorial in Real Python: https://realpython.com/modern-web-automation-with-python-and-selenium/
+* geckodriver (https://github.com/mozilla/geckodriver/releases) and put it in path
+* Salenium webdriver: https://www.selenium.dev/documentation/overview/
+
+
 ## Usage
 
 Notebooks are provided for each robot.
