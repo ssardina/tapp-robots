@@ -19,6 +19,7 @@ The robot notebooks use **[Salenium](https://www.selenium.dev/)**, a package use
 * geckodriver (https://github.com/mozilla/geckodriver/releases) and put it in path
 * Salenium webdriver: https://www.selenium.dev/documentation/overview/
 
+* [XPath in Selenium: How to Find & Write? (Text, Contains, AND)](https://www.guru99.com/xpath-selenium.html)
 
 ## Usage
 
